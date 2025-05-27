@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <folder name="catci.net">
+    <folder name="audio">
+      <folder name="ogg">
+        <file name="ElectHum.ogg" size="122450" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/audio/ogg/ElectHum.ogg"/>
+        <file name="electricity-sound.ogg" size="26444" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/audio/ogg/electricity-sound.ogg"/>
+        <file name="fan.ogg" size="225776" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/audio/ogg/fan.ogg"/>
+        <file name="spacer" size="1" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/audio/ogg/spacer"/>
+      </folder>
+      <file name="ElectHum.mp3" size="150906" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/audio/ElectHum.mp3"/>
+      <file name="electricity-sound.mp3" size="54720" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/audio/electricity-sound.mp3"/>
+      <file name="fan.mp3" size="617760" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/audio/fan.mp3"/>
+      <file name="spacer" size="1" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/audio/spacer"/>
+    </folder>
+    <folder name="fonts">
+      <folder name="woff2">
+        <file name="EmojiFont.woff2" size="7320" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/woff2/EmojiFont.woff2"/>
+        <file name="EmojiSymbols-Regular.woff2" size="164432" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/woff2/EmojiSymbols-Regular.woff2"/>
+        <file name="JetBrainsMono-Regular.woff2" size="66884" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/woff2/JetBrainsMono-Regular.woff2"/>
+        <file name="Lineal-Regular.woff2" size="18840" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/woff2/Lineal-Regular.woff2"/>
+        <file name="MarkerMark-Regular.woff2" size="46040" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/woff2/MarkerMark-Regular.woff2"/>
+        <file name="MS-UIGothic.woff2" size="2052140" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/woff2/MS-UIGothic.woff2"/>
+        <file name="nothing-font.woff2" size="3388" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/woff2/nothing-font.woff2"/>
+        <file name="NotoEmoji-SemiBold.woff2" size="481896" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/woff2/NotoEmoji-SemiBold.woff2"/>
+        <file name="Pixel_NES.woff2" size="4852" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/woff2/Pixel_NES.woff2"/>
+        <file name="Raphigrafie-1VEZ.woff2" size="2848" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/woff2/Raphigrafie-1VEZ.woff2"/>
+        <file name="seven-segment.woff2" size="1744" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/woff2/seven-segment.woff2"/>
+        <file name="spacer" size="1" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/woff2/spacer"/>
+        <file name="Univers75.woff2" size="13316" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/woff2/Univers75.woff2"/>
+        <file name="WW-Pencil.woff2" size="41064" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/woff2/WW-Pencil.woff2"/>
+      </folder>
+      <file name="Ark-Pixel-12px-monospaced-ja-Regular.woff" size="723548" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/Ark-Pixel-12px-monospaced-ja-Regular.woff"/>
+      <file name="Ark-Pixel-12px-monospaced-ja-Regular.woff2" size="440364" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/Ark-Pixel-12px-monospaced-ja-Regular.woff2"/>
+      <file name="EmojiFont.ttf" size="25692" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/EmojiFont.ttf"/>
+      <file name="EmojiSymbols-Regular.ttf" size="315824" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/EmojiSymbols-Regular.ttf"/>
+      <file name="fonts.css" size="2303" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/fonts.css"/>
+      <file name="fonts.min.css" size="1902" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/fonts.min.css"/>
+      <file name="JetBrainsMono-Regular.woff" size="93880" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/JetBrainsMono-Regular.woff"/>
+      <file name="JetBrainsMono-Regular.woff2" size="66884" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/JetBrainsMono-Regular.woff2"/>
+      <file name="Lineal-Regular.woff" size="20148" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/Lineal-Regular.woff"/>
+      <file name="MarkerMark-Regular.ttf" size="95968" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/MarkerMark-Regular.ttf"/>
+      <file name="MS-UIGothic.ttf" size="5577360" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/MS-UIGothic.ttf"/>
+      <file name="nothing-font.ttf" size="98752" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/nothing-font.ttf"/>
+      <file name="NotoEmoji-SemiBold.ttf" size="890660" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/NotoEmoji-SemiBold.ttf"/>
+      <file name="Pixel_NES.otf" size="21036" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/Pixel_NES.otf"/>
+      <file name="Raphigrafie-1VEZ.ttf" size="145856" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/Raphigrafie-1VEZ.ttf"/>
+      <file name="seven-segment.ttf" size="17128" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/seven-segment.ttf"/>
+      <file name="spacer" size="1" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/spacer"/>
+      <file name="Univers75.otf" size="25988" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/Univers75.otf"/>
+      <file name="WW-Pencil.ttf" size="74000" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/fonts/WW-Pencil.ttf"/>
+    </folder>
+    <folder name="images">
+      <folder name="backgrounds">
+        <file name="concrete.webp" size="23676" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/backgrounds/concrete.webp"/>
+        <file name="gratea.webp" size="83134" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/backgrounds/gratea.webp"/>
+        <file name="grateb.webp" size="171740" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/backgrounds/grateb.webp"/>
+        <file name="gratec.webp" size="62048" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/backgrounds/gratec.webp"/>
+        <file name="metal.webp" size="2708" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/backgrounds/metal.webp"/>
+        <file name="reinforced.webp" size="95350" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/backgrounds/reinforced.webp"/>
+      </folder>
+      <folder name="drawings">
+        <file name="cat.webp" size="2922" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/drawings/cat.webp"/>
+        <file name="catci.webp" size="48980" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/drawings/catci.webp"/>
+      </folder>
+      <folder name="electronics">
+        <file name="caution-strip.webp" size="532" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/electronics/caution-strip.webp"/>
+        <file name="indicator.webp" size="988" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/electronics/indicator.webp"/>
+        <file name="pipesa.webp" size="1144" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/electronics/pipesa.webp"/>
+        <file name="pipesb.webp" size="2540" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/electronics/pipesb.webp"/>
+        <file name="pipesc.webp" size="1516" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/electronics/pipesc.webp"/>
+        <file name="spacer" size="1" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/electronics/spacer"/>
+        <file name="wire-strip.webp" size="1696" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/electronics/wire-strip.webp"/>
+      </folder>
+      <folder name="misc">
+        <file name="catci.svg" size="50101" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/misc/catci.svg"/>
+        <file name="chicken.webp" size="15734" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/misc/chicken.webp"/>
+        <file name="highlight.webp" size="14238" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/misc/highlight.webp"/>
+        <file name="lastfm-def.png" size="4195" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/misc/lastfm-def.png"/>
+        <file name="lastfm-def.webp" size="442" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/misc/lastfm-def.webp"/>
+        <file name="musicnote.webp" size="388" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/misc/musicnote.webp"/>
+        <file name="noise.webp" size="414646" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/misc/noise.webp"/>
+        <file name="spacer" size="1" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/misc/spacer"/>
+        <file name="sunrays.webp" size="411064" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/misc/sunrays.webp"/>
+      </folder>
+      <folder name="nature">
+        <file name="bush.webp" size="210642" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/nature/bush.webp"/>
+        <file name="cobweb.webp" size="55432" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/nature/cobweb.webp"/>
+        <file name="grass.webp" size="169240" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/nature/grass.webp"/>
+        <file name="ivya.webp" size="128098" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/nature/ivya.webp"/>
+        <file name="ivyb.webp" size="101652" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/nature/ivyb.webp"/>
+        <file name="moss-overlay.webp" size="763412" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/nature/moss-overlay.webp"/>
+        <file name="moss-overlayb.webp" size="446568" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/nature/moss-overlayb.webp"/>
+        <file name="overgrowth.webp" size="142184" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/nature/overgrowth.webp"/>
+        <file name="spacer" size="1" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/nature/spacer"/>
+      </folder>
+      <folder name="objects">
+        <file name="computer.webp" size="13058" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/objects/computer.webp"/>
+        <file name="crt-black.webp" size="128534" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/objects/crt-black.webp"/>
+        <file name="crt-white.webp" size="52112" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/objects/crt-white.webp"/>
+        <file name="drainpipe.webp" size="17738" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/objects/drainpipe.webp"/>
+        <file name="fan.webp" size="16378" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/objects/fan.webp"/>
+        <file name="floppy.webp" size="8990" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/objects/floppy.webp"/>
+        <file name="hatch.webp" size="1714" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/objects/hatch.webp"/>
+        <file name="hole.webp" size="3390" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/objects/hole.webp"/>
+        <file name="left.webp" size="6388" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/objects/left.webp"/>
+        <file name="right.webp" size="8552" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/objects/right.webp"/>
+        <file name="spacer" size="1" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/objects/spacer"/>
+        <file name="speaker.webp" size="101602" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/objects/speaker.webp"/>
+        <file name="vent.webp" size="1198" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/objects/vent.webp"/>
+        <file name="video.webp" size="8054" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/objects/video.webp"/>
+      </folder>
+      <folder name="paper">
+        <file name="notepad.webp" size="224684" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/paper/notepad.webp"/>
+        <file name="papera.webp" size="27718" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/paper/papera.webp"/>
+        <file name="paperb.webp" size="20038" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/paper/paperb.webp"/>
+        <file name="paperc.webp" size="27738" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/paper/paperc.webp"/>
+        <file name="spacer" size="1" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/paper/spacer"/>
+        <file name="tape.webp" size="108076" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/paper/tape.webp"/>
+      </folder>
+      <folder name="signage">
+        <file name="condemned-sign.webp" size="257624" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/signage/condemned-sign.webp"/>
+        <file name="danger-sign.webp" size="4230" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/signage/danger-sign.webp"/>
+        <file name="security-sign.webp" size="2000" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/signage/security-sign.webp"/>
+        <file name="spacer" size="1" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/signage/spacer"/>
+        <file name="voltage-sign.webp" size="3780" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/signage/voltage-sign.webp"/>
+      </folder>
+      <folder name="stains">
+        <file name="residue.webp" size="11296" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/stains/residue.webp"/>
+        <file name="spacer" size="1" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/stains/spacer"/>
+        <file name="stain-concretea.webp" size="152520" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/stains/stain-concretea.webp"/>
+        <file name="stain-concretec.webp" size="129872" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/stains/stain-concretec.webp"/>
+        <file name="stain-concreted.webp" size="140842" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/stains/stain-concreted.webp"/>
+        <file name="stain-paper.webp" size="195764" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/stains/stain-paper.webp"/>
+        <file name="stain-paperb.webp" size="227230" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/stains/stain-paperb.webp"/>
+      </folder>
+      <file name="og-image-1.jpg" size="111325" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/og-image-1.jpg"/>
+      <file name="og-image.webp" size="61948" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/og-image.webp"/>
+      <file name="og_image.png" size="710418" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/og_image.png"/>
+      <file name="spacer" size="1" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/images/spacer"/>
+    </folder>
+    <folder name="scripts">
+      <file name="clone.js" size="1033" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/scripts/clone.js"/>
+      <file name="combined.js" size="16283" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/scripts/combined.js"/>
+      <file name="flicker-sign.js" size="925" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/scripts/flicker-sign.js"/>
+      <file name="main.min.js" size="8451" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/scripts/main.min.js"/>
+      <file name="status.js" size="1432" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/scripts/status.js"/>
+    </folder>
+    <file name="spacer" size="1" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/spacer"/>
+    <file name="spritesheet_0.txt" size="15807" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/spritesheet_0.txt"/>
+    <file name="spritesheet_0.webp" size="5935802" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="catci.net/spritesheet_0.webp"/>
+  </folder>
+  <file name="CNAME" size="14" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="CNAME"/>
+  <file name="dictionary.txt" size="498" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="dictionary.txt"/>
+  <file name="favicon.ico" size="14318" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="favicon.ico"/>
+  <file name="files.html" size="19803" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="files.html"/>
+  <file name="index.html" size="14289" updated_at="Sat, 24 May 2025 14:29:20 -0000" path="index.html"/>
+</root>
