@@ -1,0 +1,382 @@
+<root>
+    <folder name="ascii">
+        <file name="cat.txt" size="6302" updated_at="Mon, 28 Apr 2025 16:40:02 -0000" path="ascii/cat.txt" />
+        <file name="desktop.ini" size="246" updated_at="Mon, 28 Apr 2025 16:40:03 -0000" path="ascii/desktop.ini" />
+        <file name="forest.txt" size="8020" updated_at="Mon, 28 Apr 2025 16:40:03 -0000" path="ascii/forest.txt" />
+        <file name="mscatci.txt" size="23" updated_at="Mon, 28 Apr 2025 16:40:03 -0000" path="ascii/mscatci.txt" />
+        <file name="windows.txt" size="1223" updated_at="Mon, 28 Apr 2025 16:40:03 -0000" path="ascii/windows.txt" />
+    </folder>
+    <folder name="fonts">
+        <file name="Ark-Pixel-12px-monospaced-ja-Regular.woff" size="723548"
+            updated_at="Mon, 28 Apr 2025 16:40:06 -0000" path="fonts/Ark-Pixel-12px-monospaced-ja-Regular.woff" />
+        <file name="Ark-Pixel-12px-monospaced-ja-Regular.woff2" size="440364"
+            updated_at="Mon, 28 Apr 2025 16:40:07 -0000" path="fonts/Ark-Pixel-12px-monospaced-ja-Regular.woff2" />
+        <file name="EmojiFont.ttf" size="25692" updated_at="Mon, 28 Apr 2025 16:40:05 -0000"
+            path="fonts/EmojiFont.ttf" />
+        <file name="EmojiSymbols-Regular.ttf" size="315824" updated_at="Mon, 28 Apr 2025 16:40:07 -0000"
+            path="fonts/EmojiSymbols-Regular.ttf" />
+        <file name="JetBrainsMono-Regular.woff" size="93880" updated_at="Mon, 28 Apr 2025 16:40:06 -0000"
+            path="fonts/JetBrainsMono-Regular.woff" />
+        <file name="JetBrainsMono-Regular.woff2" size="66884" updated_at="Mon, 28 Apr 2025 16:40:06 -0000"
+            path="fonts/JetBrainsMono-Regular.woff2" />
+        <file name="Lineal-Regular.woff" size="20148" updated_at="Mon, 28 Apr 2025 16:40:07 -0000"
+            path="fonts/Lineal-Regular.woff" />
+        <file name="MS-UIGothic.ttf" size="5577360" updated_at="Mon, 28 Apr 2025 16:40:05 -0000"
+            path="fonts/MS-UIGothic.ttf" />
+        <file name="NotoEmoji-SemiBold.ttf" size="890660" updated_at="Mon, 28 Apr 2025 16:40:06 -0000"
+            path="fonts/NotoEmoji-SemiBold.ttf" />
+        <file name="Pixel_NES.otf" size="21036" updated_at="Mon, 28 Apr 2025 16:40:05 -0000"
+            path="fonts/Pixel_NES.otf" />
+        <file name="Raphigrafie-1VEZ.ttf" size="145856" updated_at="Mon, 28 Apr 2025 16:40:07 -0000"
+            path="fonts/Raphigrafie-1VEZ.ttf" />
+        <file name="desktop.ini" size="246" updated_at="Mon, 28 Apr 2025 16:40:07 -0000" path="fonts/desktop.ini" />
+        <file name="nothing-font.ttf" size="98752" updated_at="Mon, 28 Apr 2025 16:40:05 -0000"
+            path="fonts/nothing-font.ttf" />
+        <file name="seven-segment.ttf" size="17128" updated_at="Mon, 28 Apr 2025 16:40:06 -0000"
+            path="fonts/seven-segment.ttf" />
+    </folder>
+    <folder name="images">
+        <folder name="backgrounds">
+            <file name="back-mountains.png" size="4013" updated_at="Mon, 28 Apr 2025 16:40:10 -0000"
+                path="images/backgrounds/back-mountains.png" />
+            <file name="back-tree.png" size="1734" updated_at="Mon, 28 Apr 2025 16:40:10 -0000"
+                path="images/backgrounds/back-tree.png" />
+            <file name="background.aseprite" size="21116" updated_at="Mon, 28 Apr 2025 16:40:09 -0000"
+                path="images/backgrounds/background.aseprite" />
+            <file name="campfire.png" size="753" updated_at="Mon, 28 Apr 2025 16:40:10 -0000"
+                path="images/backgrounds/campfire.png" />
+            <file name="clouds.png" size="2761" updated_at="Mon, 28 Apr 2025 16:40:10 -0000"
+                path="images/backgrounds/clouds.png" />
+            <file name="decor.png" size="903" updated_at="Mon, 28 Apr 2025 16:40:09 -0000"
+                path="images/backgrounds/decor.png" />
+            <file name="desktop.ini" size="246" updated_at="Mon, 28 Apr 2025 16:40:10 -0000"
+                path="images/backgrounds/desktop.ini" />
+            <file name="golf-ball.jpg" size="145666" updated_at="Mon, 28 Apr 2025 16:40:10 -0000"
+                path="images/backgrounds/golf-ball.jpg" />
+            <file name="gradient.png" size="10500" updated_at="Mon, 28 Apr 2025 16:40:10 -0000"
+                path="images/backgrounds/gradient.png" />
+            <file name="ground.png" size="780" updated_at="Mon, 28 Apr 2025 16:40:10 -0000"
+                path="images/backgrounds/ground.png" />
+            <file name="middle-tree.png" size="4347" updated_at="Mon, 28 Apr 2025 16:40:10 -0000"
+                path="images/backgrounds/middle-tree.png" />
+            <file name="moon.png" size="1235" updated_at="Mon, 28 Apr 2025 16:40:10 -0000"
+                path="images/backgrounds/moon.png" />
+            <file name="mountains.png" size="3243" updated_at="Mon, 28 Apr 2025 16:40:10 -0000"
+                path="images/backgrounds/mountains.png" />
+            <file name="stars.png" size="1114" updated_at="Mon, 28 Apr 2025 16:40:10 -0000"
+                path="images/backgrounds/stars.png" />
+            <file name="tent.png" size="917" updated_at="Mon, 28 Apr 2025 16:40:10 -0000"
+                path="images/backgrounds/tent.png" />
+            <file name="tree.png" size="3762" updated_at="Mon, 28 Apr 2025 16:40:10 -0000"
+                path="images/backgrounds/tree.png" />
+        </folder>
+        <folder name="buttons">
+            <file name="badapple_button.gif" size="946396" updated_at="Mon, 28 Apr 2025 16:40:09 -0000"
+                path="images/buttons/badapple_button.gif" />
+            <file name="button-folder.gif" size="496" updated_at="Mon, 28 Apr 2025 16:40:08 -0000"
+                path="images/buttons/button-folder.gif" />
+            <file name="button.gif" size="6836" updated_at="Mon, 28 Apr 2025 16:40:08 -0000"
+                path="images/buttons/button.gif" />
+            <file name="desktop.ini" size="246" updated_at="Mon, 28 Apr 2025 16:40:09 -0000"
+                path="images/buttons/desktop.ini" />
+            <file name="dinbtn.gif" size="1676" updated_at="Mon, 28 Apr 2025 16:40:09 -0000"
+                path="images/buttons/dinbtn.gif" />
+            <file name="drpepper.gif" size="2412" updated_at="Mon, 28 Apr 2025 16:40:08 -0000"
+                path="images/buttons/drpepper.gif" />
+            <file name="firefox.gif" size="2412" updated_at="Mon, 28 Apr 2025 16:40:08 -0000"
+                path="images/buttons/firefox.gif" />
+            <file name="handcoded.gif" size="5196" updated_at="Mon, 28 Apr 2025 16:40:08 -0000"
+                path="images/buttons/handcoded.gif" />
+            <file name="mariokart.png" size="8903" updated_at="Mon, 28 Apr 2025 16:40:08 -0000"
+                path="images/buttons/mariokart.png" />
+            <file name="minecraft.png" size="6293" updated_at="Mon, 28 Apr 2025 16:40:09 -0000"
+                path="images/buttons/minecraft.png" />
+            <file name="neocities.gif" size="2431" updated_at="Mon, 28 Apr 2025 16:40:09 -0000"
+                path="images/buttons/neocities.gif" />
+        </folder>
+        <folder name="icons">
+            <file name="clock.svg" size="447" updated_at="Mon, 28 Apr 2025 16:40:09 -0000"
+                path="images/icons/clock.svg" />
+            <file name="desktop.ini" size="246" updated_at="Mon, 28 Apr 2025 16:40:09 -0000"
+                path="images/icons/desktop.ini" />
+            <file name="folder.svg" size="964" updated_at="Mon, 28 Apr 2025 16:40:09 -0000"
+                path="images/icons/folder.svg" />
+        </folder>
+        <folder name="textures">
+            <file name="BSTX0034.png" size="5008" updated_at="Mon, 28 Apr 2025 16:40:16 -0000"
+                path="images/textures/BSTX0034.png" />
+            <file name="HLTX0999.png" size="4736" updated_at="Mon, 28 Apr 2025 16:40:15 -0000"
+                path="images/textures/HLTX0999.png" />
+            <file name="HLTX1000.png" size="21512" updated_at="Mon, 28 Apr 2025 16:40:15 -0000"
+                path="images/textures/HLTX1000.png" />
+            <file name="HLTX1932.png" size="10172" updated_at="Mon, 28 Apr 2025 16:40:17 -0000"
+                path="images/textures/HLTX1932.png" />
+            <file name="HLTX1939.png" size="2416" updated_at="Mon, 28 Apr 2025 16:40:17 -0000"
+                path="images/textures/HLTX1939.png" />
+            <file name="HLTX1940.png" size="17384" updated_at="Mon, 28 Apr 2025 16:40:17 -0000"
+                path="images/textures/HLTX1940.png" />
+            <file name="HLTX2233.png" size="5072" updated_at="Mon, 28 Apr 2025 16:40:15 -0000"
+                path="images/textures/HLTX2233.png" />
+            <file name="HLTX2655.png" size="5504" updated_at="Mon, 28 Apr 2025 16:40:16 -0000"
+                path="images/textures/HLTX2655.png" />
+            <file name="HLTX2983.png" size="2928" updated_at="Mon, 28 Apr 2025 16:40:16 -0000"
+                path="images/textures/HLTX2983.png" />
+            <file name="OPTX0005.png" size="9180" updated_at="Mon, 28 Apr 2025 16:40:15 -0000"
+                path="images/textures/OPTX0005.png" />
+            <file name="black_wall_metal_004c_top.png" size="987754" updated_at="Mon, 28 Apr 2025 16:40:13 -0000"
+                path="images/textures/black_wall_metal_004c_top.png" />
+            <file name="black_wall_metal_005c.png" size="1027596" updated_at="Mon, 28 Apr 2025 16:40:12 -0000"
+                path="images/textures/black_wall_metal_005c.png" />
+            <file name="black_wall_metal_005c_height-ssbump.png" size="1284802"
+                updated_at="Mon, 28 Apr 2025 16:40:12 -0000"
+                path="images/textures/black_wall_metal_005c_height-ssbump.png" />
+            <file name="black_wall_metal_005c_top.png" size="1233432" updated_at="Mon, 28 Apr 2025 16:40:12 -0000"
+                path="images/textures/black_wall_metal_005c_top.png" />
+            <file name="black_wall_metal_005c_top_height-ssbump.png" size="1226675"
+                updated_at="Mon, 28 Apr 2025 16:40:12 -0000"
+                path="images/textures/black_wall_metal_005c_top_height-ssbump.png" />
+            <file name="black_wall_metal_005d.png" size="1407665" updated_at="Mon, 28 Apr 2025 16:40:12 -0000"
+                path="images/textures/black_wall_metal_005d.png" />
+            <file name="black_wall_metal_005d_top.png" size="1503700" updated_at="Mon, 28 Apr 2025 16:40:13 -0000"
+                path="images/textures/black_wall_metal_005d_top.png" />
+            <file name="black_wall_metal_006d.png" size="447426" updated_at="Mon, 28 Apr 2025 16:40:15 -0000"
+                path="images/textures/black_wall_metal_006d.png" />
+            <file name="black_wall_metal_006d_height-ssbump.png" size="1085876"
+                updated_at="Mon, 28 Apr 2025 16:40:15 -0000"
+                path="images/textures/black_wall_metal_006d_height-ssbump.png" />
+            <file name="carpetfloor003b.png" size="285588" updated_at="Mon, 28 Apr 2025 16:40:14 -0000"
+                path="images/textures/carpetfloor003b.png" />
+            <file name="carpetfloor003b_top.png" size="284410" updated_at="Mon, 28 Apr 2025 16:40:14 -0000"
+                path="images/textures/carpetfloor003b_top.png" />
+            <file name="carpetfloor003c.png" size="336459" updated_at="Mon, 28 Apr 2025 16:40:14 -0000"
+                path="images/textures/carpetfloor003c.png" />
+            <file name="cobweb002.png" size="101872" updated_at="Mon, 28 Apr 2025 16:40:14 -0000"
+                path="images/textures/cobweb002.png" />
+            <file name="concrete_bts_floor002a.png" size="1511983" updated_at="Mon, 28 Apr 2025 16:40:13 -0000"
+                path="images/textures/concrete_bts_floor002a.png" />
+            <file name="concrete_modular_wall001_gradient08.png" size="400420"
+                updated_at="Mon, 28 Apr 2025 16:40:12 -0000"
+                path="images/textures/concrete_modular_wall001_gradient08.png" />
+            <file name="cracked_c.png" size="1257290" updated_at="Mon, 28 Apr 2025 16:40:13 -0000"
+                path="images/textures/cracked_c.png" />
+            <file name="cracked_e.png" size="1116260" updated_at="Mon, 28 Apr 2025 16:40:13 -0000"
+                path="images/textures/cracked_e.png" />
+            <file name="cracked_w.png" size="1311575" updated_at="Mon, 28 Apr 2025 16:40:13 -0000"
+                path="images/textures/cracked_w.png" />
+            <file name="crt.png" size="2937863" updated_at="Mon, 28 Apr 2025 16:40:17 -0000"
+                path="images/textures/crt.png" />
+            <file name="decalfont01006a.png" size="37606" updated_at="Mon, 28 Apr 2025 16:40:15 -0000"
+                path="images/textures/decalfont01006a.png" />
+            <file name="decalfont01008a.png" size="37763" updated_at="Mon, 28 Apr 2025 16:40:15 -0000"
+                path="images/textures/decalfont01008a.png" />
+            <file name="decalindustrialnumber03a.png" size="10943" updated_at="Mon, 28 Apr 2025 16:40:16 -0000"
+                path="images/textures/decalindustrialnumber03a.png" />
+            <file name="decalindustrialnumber07a.png" size="10067" updated_at="Mon, 28 Apr 2025 16:40:16 -0000"
+                path="images/textures/decalindustrialnumber07a.png" />
+            <file name="decalmetalhatch002a.png" size="6978" updated_at="Mon, 28 Apr 2025 16:40:15 -0000"
+                path="images/textures/decalmetalhatch002a.png" />
+            <file name="decalporthole001b.png" size="25627" updated_at="Mon, 28 Apr 2025 16:40:15 -0000"
+                path="images/textures/decalporthole001b.png" />
+            <file name="decalsigndanger001e.png" size="12174" updated_at="Mon, 28 Apr 2025 16:40:11 -0000"
+                path="images/textures/decalsigndanger001e.png" />
+            <file name="decalstain001a.png" size="700956" updated_at="Mon, 28 Apr 2025 16:40:11 -0000"
+                path="images/textures/decalstain001a.png" />
+            <file name="desktop.ini" size="246" updated_at="Mon, 28 Apr 2025 16:40:17 -0000"
+                path="images/textures/desktop.ini" />
+            <file name="dither.jpg" size="37574" updated_at="Mon, 28 Apr 2025 16:40:15 -0000"
+                path="images/textures/dither.jpg" />
+            <file name="drainpipe_overlay01.png" size="127443" updated_at="Mon, 28 Apr 2025 16:40:14 -0000"
+                path="images/textures/drainpipe_overlay01.png" />
+            <file name="factory_concrete_wall001a.png" size="299932" updated_at="Mon, 28 Apr 2025 16:40:13 -0000"
+                path="images/textures/factory_concrete_wall001a.png" />
+            <file name="ivy02-height.png" size="546579" updated_at="Mon, 28 Apr 2025 16:40:15 -0000"
+                path="images/textures/ivy02-height.png" />
+            <file name="ivy02.png" size="395410" updated_at="Mon, 28 Apr 2025 16:40:12 -0000"
+                path="images/textures/ivy02.png" />
+            <file name="ivy03-height.png" size="403102" updated_at="Mon, 28 Apr 2025 16:40:15 -0000"
+                path="images/textures/ivy03-height.png" />
+            <file name="ivy03.png" size="312424" updated_at="Mon, 28 Apr 2025 16:40:11 -0000"
+                path="images/textures/ivy03.png" />
+            <file name="metaldoor01_96.png" size="163436" updated_at="Mon, 28 Apr 2025 16:40:14 -0000"
+                path="images/textures/metaldoor01_96.png" />
+            <file name="moss_wall_decal.png" size="2760893" updated_at="Mon, 28 Apr 2025 16:40:11 -0000"
+                path="images/textures/moss_wall_decal.png" />
+            <file name="number_02.png" size="103680" updated_at="Mon, 28 Apr 2025 16:40:16 -0000"
+                path="images/textures/number_02.png" />
+            <file name="overlay_moss01.png" size="1864772" updated_at="Mon, 28 Apr 2025 16:40:13 -0000"
+                path="images/textures/overlay_moss01.png" />
+            <file name="plaster004a.png" size="4819" updated_at="Mon, 28 Apr 2025 16:40:11 -0000"
+                path="images/textures/plaster004a.png" />
+            <file name="plaster005a.png" size="7798" updated_at="Mon, 28 Apr 2025 16:40:11 -0000"
+                path="images/textures/plaster005a.png" />
+            <file name="plaster006a.png" size="19187" updated_at="Mon, 28 Apr 2025 16:40:11 -0000"
+                path="images/textures/plaster006a.png" />
+            <file name="plaster008a.png" size="5574" updated_at="Mon, 28 Apr 2025 16:40:11 -0000"
+                path="images/textures/plaster008a.png" />
+            <file name="plaster017a.png" size="169530" updated_at="Mon, 28 Apr 2025 16:40:11 -0000"
+                path="images/textures/plaster017a.png" />
+            <file name="plaster019a.png" size="68216" updated_at="Mon, 28 Apr 2025 16:40:11 -0000"
+                path="images/textures/plaster019a.png" />
+            <file name="pressure_door02.png" size="1110658" updated_at="Mon, 28 Apr 2025 16:40:14 -0000"
+                path="images/textures/pressure_door02.png" />
+            <file name="refract_light_color.png" size="7291" updated_at="Mon, 28 Apr 2025 16:40:17 -0000"
+                path="images/textures/refract_light_color.png" />
+            <file name="refract_light_normal.png" size="2040" updated_at="Mon, 28 Apr 2025 16:40:17 -0000"
+                path="images/textures/refract_light_normal.png" />
+            <file name="stain_concrete002.png" size="610872" updated_at="Mon, 28 Apr 2025 16:40:14 -0000"
+                path="images/textures/stain_concrete002.png" />
+            <file name="stain_concrete004.png" size="614122" updated_at="Mon, 28 Apr 2025 16:40:14 -0000"
+                path="images/textures/stain_concrete004.png" />
+            <file name="sunrays.png" size="424117" updated_at="Mon, 28 Apr 2025 16:40:16 -0000"
+                path="images/textures/sunrays.png" />
+            <file name="teller_vent_01.png" size="4066" updated_at="Mon, 28 Apr 2025 16:40:14 -0000"
+                path="images/textures/teller_vent_01.png" />
+            <file name="timein.png" size="54937" updated_at="Mon, 28 Apr 2025 16:40:17 -0000"
+                path="images/textures/timein.png" />
+            <file name="underground_concrete_ceiling001.png" size="1517034" updated_at="Mon, 28 Apr 2025 16:40:13 -0000"
+                path="images/textures/underground_concrete_ceiling001.png" />
+            <file name="underground_condemed_testarea.png" size="643338" updated_at="Mon, 28 Apr 2025 16:40:16 -0000"
+                path="images/textures/underground_condemed_testarea.png" />
+            <file name="underground_fan_shutdown.png" size="172747" updated_at="Mon, 28 Apr 2025 16:40:16 -0000"
+                path="images/textures/underground_fan_shutdown.png" />
+            <file name="underground_keepout.png" size="56952" updated_at="Mon, 28 Apr 2025 16:40:16 -0000"
+                path="images/textures/underground_keepout.png" />
+            <file name="underground_keepout01.png" size="245947" updated_at="Mon, 28 Apr 2025 16:40:16 -0000"
+                path="images/textures/underground_keepout01.png" />
+            <file name="underground_metal_corrugated001.png" size="357192" updated_at="Mon, 28 Apr 2025 16:40:12 -0000"
+                path="images/textures/underground_metal_corrugated001.png" />
+            <file name="underground_metal_corrugated001_bottom.png" size="310561"
+                updated_at="Mon, 28 Apr 2025 16:40:12 -0000"
+                path="images/textures/underground_metal_corrugated001_bottom.png" />
+            <file name="underground_metalgrate001c_mip0.png" size="286978" updated_at="Mon, 28 Apr 2025 16:40:12 -0000"
+                path="images/textures/underground_metalgrate001c_mip0.png" />
+            <file name="underground_metalgrate002a.png" size="423379" updated_at="Mon, 28 Apr 2025 16:40:12 -0000"
+                path="images/textures/underground_metalgrate002a.png" />
+            <file name="underground_metalgrate003a.png" size="141712" updated_at="Mon, 28 Apr 2025 16:40:12 -0000"
+                path="images/textures/underground_metalgrate003a.png" />
+            <file name="white_wall_tile004e.png" size="2006107" updated_at="Mon, 28 Apr 2025 16:40:13 -0000"
+                path="images/textures/white_wall_tile004e.png" />
+        </folder>
+        <file name="backgrounds" updated_at="Mon, 28 Apr 2025 16:39:59 -0000" path="images/backgrounds" />
+        <file name="buttons" updated_at="Mon, 28 Apr 2025 16:39:59 -0000" path="images/buttons" />
+        <file name="cactuscat.svg" size="50099" updated_at="Mon, 28 Apr 2025 16:40:04 -0000"
+            path="images/cactuscat.svg" />
+        <file name="computer-frame.png" size="201423" updated_at="Mon, 28 Apr 2025 16:40:06 -0000"
+            path="images/computer-frame.png" />
+        <file name="crt.webp" size="99702" updated_at="Mon, 28 Apr 2025 16:40:06 -0000" path="images/crt.webp" />
+        <file name="defaultmusic.jpg" size="2629" updated_at="Mon, 28 Apr 2025 16:40:05 -0000"
+            path="images/defaultmusic.jpg" />
+        <file name="desktop.ini" size="246" updated_at="Mon, 28 Apr 2025 16:40:06 -0000" path="images/desktop.ini" />
+        <file name="europe.svg" size="848" updated_at="Mon, 28 Apr 2025 16:40:04 -0000" path="images/europe.svg" />
+        <file name="fan.png" size="54502" updated_at="Mon, 28 Apr 2025 16:40:05 -0000" path="images/fan.png" />
+        <file name="frame.png" size="462394" updated_at="Mon, 28 Apr 2025 16:40:06 -0000" path="images/frame.png" />
+        <file name="ground.png" size="13970" updated_at="Mon, 28 Apr 2025 16:40:04 -0000" path="images/ground.png" />
+        <file name="icons" updated_at="Mon, 28 Apr 2025 16:39:59 -0000" path="images/icons" />
+        <file name="map.svg" size="137774" updated_at="Mon, 28 Apr 2025 16:40:02 -0000" path="images/map.svg" />
+        <file name="moon.png" size="3307" updated_at="Mon, 28 Apr 2025 16:40:04 -0000" path="images/moon.png" />
+        <file name="pfp_placeholder.png" size="216568" updated_at="Mon, 28 Apr 2025 16:40:04 -0000"
+            path="images/pfp_placeholder.png" />
+        <file name="scotland.svg" size="450" updated_at="Mon, 28 Apr 2025 16:40:04 -0000" path="images/scotland.svg" />
+        <file name="speaker.png" size="1906146" updated_at="Mon, 28 Apr 2025 16:40:06 -0000"
+            path="images/speaker.png" />
+        <file name="textures" updated_at="Mon, 28 Apr 2025 16:39:58 -0000" path="images/textures" />
+        <file name="topographic.png" size="2252651" updated_at="Mon, 28 Apr 2025 16:40:05 -0000"
+            path="images/topographic.png" />
+        <file name="under_construction.gif" size="5595" updated_at="Mon, 28 Apr 2025 16:40:05 -0000"
+            path="images/under_construction.gif" />
+    </folder>
+    <folder name="inspo">
+        <file name="about.png" size="145089" updated_at="Mon, 28 Apr 2025 16:40:02 -0000" path="inspo/about.png" />
+        <file name="cards.webp" size="41308" updated_at="Mon, 28 Apr 2025 16:40:02 -0000" path="inspo/cards.webp" />
+        <file name="commandline.png" size="466292" updated_at="Mon, 28 Apr 2025 16:40:02 -0000"
+            path="inspo/commandline.png" />
+        <file name="crt.jpg" size="55166" updated_at="Sun, 25 May 2025 09:23:05 -0000" path="inspo/crt.jpg" />
+        <file name="desktop.ini" size="246" updated_at="Sun, 25 May 2025 09:23:05 -0000" path="inspo/desktop.ini" />
+        <file name="desktop.webp" size="43456" updated_at="Mon, 28 Apr 2025 16:40:02 -0000" path="inspo/desktop.webp" />
+        <file name="desktop2.png" size="247691" updated_at="Mon, 28 Apr 2025 16:40:03 -0000"
+            path="inspo/desktop2.png" />
+        <file name="desktop3.png" size="700806" updated_at="Mon, 28 Apr 2025 16:40:04 -0000"
+            path="inspo/desktop3.png" />
+        <file name="image.png" size="491796" updated_at="Mon, 28 Apr 2025 16:40:04 -0000" path="inspo/image.png" />
+        <file name="lastsong.png" size="27080" updated_at="Mon, 28 Apr 2025 16:40:03 -0000" path="inspo/lastsong.png" />
+        <file name="morecommandlines.png" size="3261784" updated_at="Mon, 28 Apr 2025 16:40:03 -0000"
+            path="inspo/morecommandlines.png" />
+        <file name="nav.png" size="45736" updated_at="Mon, 28 Apr 2025 16:40:02 -0000" path="inspo/nav.png" />
+        <file name="system-stats-and-chat.png" size="97224" updated_at="Mon, 28 Apr 2025 16:40:03 -0000"
+            path="inspo/system-stats-and-chat.png" />
+        <file name="weather.jpeg" size="19057" updated_at="Mon, 28 Apr 2025 16:40:02 -0000" path="inspo/weather.jpeg" />
+    </folder>
+    <folder name="scripts">
+        <file name="ambience.js" size="508" updated_at="Mon, 28 Apr 2025 16:40:05 -0000" path="scripts/ambience.js" />
+        <file name="clock.js" size="366" updated_at="Mon, 28 Apr 2025 16:40:04 -0000" path="scripts/clock.js" />
+        <file name="copy.js" size="701" updated_at="Mon, 28 Apr 2025 16:40:04 -0000" path="scripts/copy.js" />
+        <file name="desktop.ini" size="246" updated_at="Sun, 25 May 2025 09:23:04 -0000" path="scripts/desktop.ini" />
+        <file name="lastfm.js" size="2293" updated_at="Mon, 28 Apr 2025 16:40:04 -0000" path="scripts/lastfm.js" />
+        <file name="location-status.js" size="1162" updated_at="Mon, 28 Apr 2025 16:40:04 -0000"
+            path="scripts/location-status.js" />
+        <file name="mapeffects.js" size="1351" updated_at="Mon, 28 Apr 2025 16:40:02 -0000"
+            path="scripts/mapeffects.js" />
+        <file name="status.js" size="2235" updated_at="Sun, 25 May 2025 09:23:04 -0000" path="scripts/status.js" />
+        <file name="title.js" size="333" updated_at="Mon, 28 Apr 2025 16:40:03 -0000" path="scripts/title.js" />
+        <file name="tooltip.js" size="913" updated_at="Mon, 28 Apr 2025 16:40:02 -0000" path="scripts/tooltip.js" />
+        <file name="url-cleaner.js" size="172" updated_at="Mon, 28 Apr 2025 16:40:03 -0000"
+            path="scripts/url-cleaner.js" />
+        <file name="weather-emoticon.js" size="1848" updated_at="Mon, 28 Apr 2025 16:40:06 -0000"
+            path="scripts/weather-emoticon.js" />
+        <file name="weather.js" size="1420" updated_at="Mon, 28 Apr 2025 16:40:06 -0000" path="scripts/weather.js" />
+    </folder>
+    <folder name="sounds">
+        <file name="ElectHum.mp3" size="150906" updated_at="Mon, 28 Apr 2025 16:40:08 -0000"
+            path="sounds/ElectHum.mp3" />
+        <file name="desktop.ini" size="246" updated_at="Sun, 25 May 2025 09:23:06 -0000" path="sounds/desktop.ini" />
+        <file name="electricity-sound.mp3" size="54720" updated_at="Mon, 28 Apr 2025 16:40:07 -0000"
+            path="sounds/electricity-sound.mp3" />
+        <file name="fan.mp3" size="617760" updated_at="Mon, 28 Apr 2025 16:40:08 -0000" path="sounds/fan.mp3" />
+    </folder>
+    <folder name="styles">
+        <file name="desktop.css" size="8201" updated_at="Mon, 28 Apr 2025 16:40:08 -0000" path="styles/desktop.css" />
+        <file name="desktop.ini" size="246" updated_at="Sun, 25 May 2025 09:23:05 -0000" path="styles/desktop.ini" />
+        <file name="effects.css" size="914" updated_at="Mon, 28 Apr 2025 16:40:08 -0000" path="styles/effects.css" />
+        <file name="fonts.css" size="1631" updated_at="Mon, 28 Apr 2025 16:40:08 -0000" path="styles/fonts.css" />
+        <file name="music.css" size="835" updated_at="Mon, 28 Apr 2025 16:40:08 -0000" path="styles/music.css" />
+        <file name="position.css" size="473" updated_at="Mon, 28 Apr 2025 16:40:07 -0000" path="styles/position.css" />
+        <file name="styles.css" size="18921" updated_at="Sun, 25 May 2025 09:23:05 -0000" path="styles/styles.css" />
+        <file name="variables.css" size="1241" updated_at="Mon, 28 Apr 2025 16:40:07 -0000"
+            path="styles/variables.css" />
+    </folder>
+    <folder name="widgets">
+        <file name="desktop.ini" size="246" updated_at="Sun, 25 May 2025 09:23:04 -0000" path="widgets/desktop.ini" />
+        <file name="music.html" size="5449" updated_at="Mon, 28 Apr 2025 16:40:07 -0000" path="widgets/music.html" />
+        <file name="weather.html" size="3808" updated_at="Mon, 28 Apr 2025 16:40:07 -0000"
+            path="widgets/weather.html" />
+    </folder>
+    <file name="archive.html" size="13623" updated_at="Mon, 28 Apr 2025 16:40:00 -0000" path="archive.html" />
+    <file name="ascii" updated_at="Mon, 28 Apr 2025 16:39:58 -0000" path="ascii" />
+    <file name="blog.xml" size="950" updated_at="Mon, 28 Apr 2025 16:40:00 -0000" path="blog.xml" />
+    <file name="chat.html" size="42510" updated_at="Sun, 25 May 2025 09:23:01 -0000" path="chat.html" />
+    <file name="config.xml" size="1895" updated_at="Mon, 28 Apr 2025 16:40:00 -0000" path="config.xml" />
+    <file name="emoticons.txt" size="13728" updated_at="Mon, 28 Apr 2025 16:40:00 -0000" path="emoticons.txt" />
+    <file name="favicon.ico" size="208279" updated_at="Mon, 28 Apr 2025 16:40:00 -0000" path="favicon.ico" />
+    <file name="fonts" updated_at="Mon, 28 Apr 2025 16:39:57 -0000" path="fonts" />
+    <file name="fonts.js" size="0" updated_at="Mon, 28 Apr 2025 16:40:00 -0000" path="fonts.js" />
+    <file name="ide.html" size="1322" updated_at="Sun, 25 May 2025 09:23:02 -0000" path="ide.html" />
+    <file name="images" updated_at="Mon, 28 Apr 2025 16:39:57 -0000" path="images" />
+    <file name="index.html" size="66809" updated_at="Sun, 25 May 2025 09:23:02 -0000" path="index.html" />
+    <file name="inspo" updated_at="Mon, 28 Apr 2025 16:39:56 -0000" path="inspo" />
+    <file name="insporation.html" size="8025" updated_at="Mon, 28 Apr 2025 16:40:00 -0000" path="insporation.html" />
+    <file name="inworks.html" size="43959" updated_at="Sun, 25 May 2025 09:23:02 -0000" path="inworks.html" />
+    <file name="music.html" size="13988" updated_at="Sun, 25 May 2025 09:23:02 -0000" path="music.html" />
+    <file name="normalmap.html" size="14282" updated_at="Mon, 28 Apr 2025 16:40:01 -0000" path="normalmap.html" />
+    <file name="not_found.html" size="836" updated_at="Mon, 28 Apr 2025 16:40:01 -0000" path="not_found.html" />
+    <file name="removebg.html" size="0" updated_at="Mon, 28 Apr 2025 16:40:01 -0000" path="removebg.html" />
+    <file name="scripts" updated_at="Mon, 28 Apr 2025 16:39:58 -0000" path="scripts" />
+    <file name="sounds" updated_at="Mon, 28 Apr 2025 16:39:56 -0000" path="sounds" />
+    <file name="special.html" size="23190" updated_at="Mon, 28 Apr 2025 16:40:01 -0000" path="special.html" />
+    <file name="style.js" size="26684" updated_at="Sun, 25 May 2025 09:23:02 -0000" path="style.js" />
+    <file name="styles" updated_at="Mon, 28 Apr 2025 16:39:56 -0000" path="styles" />
+    <file name="updates.xml" size="255" updated_at="Mon, 28 Apr 2025 16:40:01 -0000" path="updates.xml" />
+    <file name="version-check.html" size="2649" updated_at="Mon, 28 Apr 2025 16:40:02 -0000"
+        path="version-check.html" />
+    <file name="version.txt" size="8" updated_at="Mon, 28 Apr 2025 16:40:01 -0000" path="version.txt" />
+    <file name="widgets" updated_at="Mon, 28 Apr 2025 16:39:57 -0000" path="widgets" />
+</root>
